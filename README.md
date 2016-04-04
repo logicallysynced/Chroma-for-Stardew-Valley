@@ -1,4 +1,4 @@
-![Chromatics Logo](http://thejourneynetwork.net/chromatics/chromatics_black_md.png)
+![Chromatics Logo](http://thejourneynetwork.net/stardewvalley/stardewvalley_logo_sm.png)
 
 **Lighting Effects for Stardew Valley**
 
