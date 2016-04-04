@@ -1,6 +1,6 @@
 ![Chromatics Logo](http://thejourneynetwork.net/chromatics/chromatics_black_md.png)
 
-**Lighting Effects for Stardew Valley*
+**Lighting Effects for Stardew Valley**
 
 Chroma for Stardew Valley is a lightweight Windows application which connects Stardew Valley with Razer Chroma devices. You can use this to make your keyboard, mouse, headset, etc. react to events, elements & other in-game functions by creating visual alerts using the devices' countless lighting options.
 
@@ -48,6 +48,37 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 
 
 ##FAQ
+
+**Q: How do I find out if my device is compatible with Chromatics?**
+
+
+A: You can find a list of currently supported devices above under Device Compatibility. Currently the app only supports Razer Chroma devices.
+
+
+**Q: I opened the app but can't find the settings to customize the lighting themes.**
+
+
+A: The app can be found in the Windows taskbar by clicking the upwards arrow by the clock in the bottom-right hand corner of the screen. You will see a yellow sun icon which you can right-click to display the options for the app.
+
+
+**Q: My question isn't listed here or I found a bug.**
+
+
+A: Please open a new help ticket [here](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/issues).
+
+
+**Q: I have an idea for Chroma for Stardew Valley. Will you implement it?**
+
+
+A: Please submit a [feature request](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/issues) and I'll see what I can do.
+
+
+
+**Q: I'm a developer too! Can I help you develop Chroma for Stardew Valley?**
+
+
+A: For sure! Please contact me on Github for more information. hroma for Stardew Valley is built in C#. 
+
 
 
 ##Known Issues
