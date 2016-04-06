@@ -12,6 +12,8 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 
 * Display HP and Stamina across your keyboard's function keys and the Razer Mamba's strip lighting.
 * HUD effects for your selected item on your hotbar.
+* Interaction effects when farming, foraging, mining, fishing or fighting across BlackWidow Keyboards.
+* Nightly countdown effect across BlackWidow Keyboards between 12AM and 2AM in game.
 * Navigation lighting to highlight important commands on your keyboard. Optional extra key highlights for beginners too!
 * Lighting effects change based on the season in-game. Different seasonal themes in-built and customizable. Optional display this effect on other Razer Chroma devices.
 * Time of day effects on your keyboard's numpad to show the progression from Sunrise to Morning, then to Twilight and into Midnight. Optional display this effect on other Razer Chroma devices.
