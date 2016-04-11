@@ -51,7 +51,7 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 
 ##FAQ
 
-**Q: How do I find out if my device is compatible with Chromatics?**
+**Q: How do I find out if my device is compatible with Chroma for Stardew Valley?**
 
 
 A: You can find a list of currently supported devices above under Device Compatibility. Currently the app only supports Razer Chroma devices.
