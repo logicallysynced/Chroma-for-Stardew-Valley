@@ -19,7 +19,7 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 * Time of day effects on your keyboard's numpad to show the progression from Sunrise to Morning, then to Twilight and into Midnight. Optional display this effect on other Razer Chroma devices.
 * Optional Macro button custom highlighting.
 * All colors and themes are completely customizable so you can make your own themes for the game.
-
+* Compatible with Stardew Valley 1.1 AND SMAPI.
 
 
 ##Device Compatibility
