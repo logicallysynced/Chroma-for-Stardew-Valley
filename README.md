@@ -94,4 +94,3 @@ A: For sure! Please contact me on Github for more information. Chroma for Starde
 * [Colore library for Razer device support](https://github.com/CoraleStudios/Colore)
 
 
-
