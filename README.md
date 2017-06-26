@@ -22,7 +22,7 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 * Compatible with Stardew Valley 1.1 AND SMAPI.
 
 
-##Device Compatibility
+##Device Compatibility 
 
 
 * BlackWidow Chroma
