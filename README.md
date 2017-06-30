@@ -7,7 +7,7 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 [Download Latest Version](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/releases)
 
 
-##Features
+##Features 
 
 
 * Display HP and Stamina across your keyboard's function keys, FireFly and the Razer Mamba's strip lighting.
